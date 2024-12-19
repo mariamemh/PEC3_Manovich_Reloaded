@@ -1,6 +1,8 @@
+# PEC3: Visionando el futuro con las gafas de Manovich
+Autora: Mariam El Moussaoui Harfacha
+Fecha: 20/12/2024
 
 # Introducción
-
 
 Lev Manovich describe la hibridación de medios como el proceso mediante el cual se combinan diferentes formas de medios, ya sean tecnológicos, plataformas o elementos diversos, para generar nuevas experiencias y ambientes transformadores. Este concepto no se limita únicamente al ámbito digital, sino que también abarca la convergencia entre lo físico y lo virtual, lo que facilita el desarrollo de experiencias más inmersivas y dinámicas. Así, la hibridación de medios abre nuevas posibilidades para la interacción y la creación de realidades enriquecidas, que superan las fronteras tradicionales entre el mundo físico y el digital.
 
